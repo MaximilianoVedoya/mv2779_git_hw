@@ -1,0 +1,2 @@
+This is my txt file and it has a list with the folloring elements:
+1,2,3,4.
